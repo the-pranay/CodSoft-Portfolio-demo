@@ -21,7 +21,7 @@ You can view a live demo of the portfolio here - https://the-pranay.github.io/Co
 To run this project locally, follow these steps:
 
 - Clone this repository to your local machine using git clone -
-- https://the-pranay.github.io/CodSoft-Portfolio-demo/
+-[ https://the-pranay.github.io/CodSoft-Portfolio-demo/](https://github.com/the-pranay/CodSoft-Portfolio-demo.git)
 Navigate to the project directory: cd portfolio-demo.
 Open the index.html file in your preferred web browser.
 
