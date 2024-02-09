@@ -16,12 +16,11 @@ This is a simple portfolio demo showcasing HTML, CSS, and JavaScript skills. Thi
 - Includes sections for about, projects, skills, and contact information.
 
 ## Demo
-You can view a live demo of the portfolio here -   https://the-pranay.github.io/CodSoft-Portfolio-demo/
-
+You can view a live demo of the portfolio here -   
 ## Installation
 To run this project locally, follow these steps:
 
-- Clone this repository to your local machine using git clone https://the-pranay.github.io/CodSoft-Portfolio-demo.git.
+- Clone this repository to your local machine using git clone 
 Navigate to the project directory: cd portfolio-demo.
 Open the index.html file in your preferred web browser.
 
