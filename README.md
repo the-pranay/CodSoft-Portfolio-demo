@@ -16,7 +16,7 @@ This is a simple portfolio demo showcasing HTML, CSS, and JavaScript skills. Thi
 - Includes sections for about, projects, skills, and contact information.
 
 ## Demo
-You can view a live demo of the portfolio here. [https://the-pranay.github.io/CodSoft-Portfolio-demo/](#your-demo-link)
+You can view a live demo of the portfolio here -   https://the-pranay.github.io/CodSoft-Portfolio-demo/
 
 ## Installation
 To run this project locally, follow these steps:
